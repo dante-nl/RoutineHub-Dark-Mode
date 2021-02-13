@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "RoutineHub Dark Mode",
+  "version": "1.0",
+
+  "description": "Make RoutineHub easier to the eye!",
+
+  "icons": {
+    "16": "RHDM_16.png",
+    "48": "RHDM_48.png",
+    "128": "RHDM_128.png"
+  },
+
+  "content_scripts": [{
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://routinehub.co/*"]
+    }]
+}

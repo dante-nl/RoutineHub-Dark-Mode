@@ -1,0 +1,112 @@
+body {
+  background-color: #1a1a1a;
+  color: white !important;
+}
+
+h1 {
+  color: white !important;
+}
+
+span {
+  color: white !important;
+}
+
+strong {
+  color: #fff !important;
+}
+
+.p.help {
+  color: white;
+}
+
+.textarea,.input {
+  background-color: #1a1a1a !important;
+}
+
+body, button, input, select, textarea {
+    font-family: "Open Sans",sans-serif;
+    color: white !important;
+}
+
+select {
+  background-color: #1a1a1a !important;
+}
+
+.delete::before {
+  background: #FF5555 !important;
+}
+
+.delete::after {
+  background: #FF5555 !important;
+}
+
+.delete::before,.modal-close::before,.delete::after,.modal-close::after{
+    background-color:#333 !important;
+    color: #FF5555 !important;
+  }
+
+.dropdown-content {
+  background: #333 !important;
+}
+
+nav.navbar {
+  background-color: #333 !important;
+  color: #fff !important;
+}
+
+.card-content {
+  background: #333 !important;
+  border: 8px !important;
+  color: #fff !important;
+}
+
+.column {
+  color: white !important;
+}
+
+.title,.subtitle {
+  color: white !important;
+}
+
+.content a,.field .help a{
+    text-decoration: underline;
+    color: white !important;
+}
+
+.delete,.modal-close{
+   background-color: #fff !important;
+}
+
+label {
+  color: white !important;
+}
+
+a.pagination-link {
+  color: #fff !important;
+}
+
+a.pagination-link.is-current {
+  background: #333 !important;
+}
+
+a {
+  color: #fff !important;
+}
+
+a.navbar-item {
+  color: #fff !important;
+}
+
+blockquote {
+  color: #fff !important;
+  background: #333 !important;
+}
+
+section#ethad.navbar.is-fixed-bottom {
+  color: #fff;
+  background: #333;
+}
+
+.ethad-container.has-background-light {
+  background: #333 !important;
+}

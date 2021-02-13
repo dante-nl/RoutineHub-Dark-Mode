@@ -1,0 +1,1 @@
+document.getElementsByClassName('search-button navbar-item is-hidden-touch has-text-success').innerHTML = '<p class="search-button navbar-item is-hidden-touch has-text-success"><i class="fas fa-search" aria-hidden="true"></i></p>'
